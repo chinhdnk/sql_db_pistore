@@ -1,0 +1,10 @@
+C:\Users\Chinh Do\Desktop\SSIS\DBProject\DB_SSDT\bin\Debug\DB_SSDT.dacpac
+C:\Users\Chinh Do\Desktop\SSIS\DBProject\DB_SSDT\bin\Debug\DB_SSDT.dll
+C:\Users\Chinh Do\Desktop\SSIS\DBProject\DB_SSDT\bin\Debug\DB_SSDT.pdb
+C:\Users\Chinh Do\Desktop\SSIS\DBProject\DB_SSDT\obj\Debug\DB_SSDT.sqlproj.AssemblyReference.cache
+C:\Users\Chinh Do\Desktop\SSIS\DBProject\DB_SSDT\obj\Debug\Model.xml
+C:\Users\Chinh Do\Desktop\SSIS\DBProject\DB_SSDT\obj\Debug\refactor.xml
+C:\Users\Chinh Do\Desktop\SSIS\DBProject\DB_SSDT\obj\Debug\postdeploy.sql
+C:\Users\Chinh Do\Desktop\SSIS\DBProject\DB_SSDT\obj\Debug\predeploy.sql
+C:\Users\Chinh Do\Desktop\SSIS\DBProject\DB_SSDT\obj\Debug\DB_SSDT.dll
+C:\Users\Chinh Do\Desktop\SSIS\DBProject\DB_SSDT\obj\Debug\DB_SSDT.pdb
